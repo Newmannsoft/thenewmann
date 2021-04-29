@@ -1,2 +1,1 @@
-# thenewmann
-Blog personal 
+# tapiceriaayk.github.io
